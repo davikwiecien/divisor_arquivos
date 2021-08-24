@@ -1,3 +1,10 @@
+/*
+COMO EXECUTAR O CÓDIGO (Linux): 
+Compile o código-fonte com o GCC em algum diretório, então crie um arquivo de teste nesse mesmo diretório (ou baixe o "teste.txt" anterior), escolha a opção 1 e 
+informe o nome do arquivo (se o arquivo escolhido estiver em outro diretório que não seja o do código fonte, digite o caminho completo). Em seguida, informe em 
+quantas partes quer dividir o arquivo, assim a divisão será feita. Para uni-lo novamente, escolha a opção 2 e informe outra vez o nome do arquivo.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
